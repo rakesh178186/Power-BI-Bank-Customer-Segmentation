@@ -2,10 +2,7 @@
 Power BI dashboards to explore customer demographics, segmentation, transactions, and risk insights. Includes interactive visuals and DAX-powered analytics for actionable business intelligence and portfolio demonstration.
 This Power BI project analyzes and visualizes customer demographics, segmentation, transaction behavior, and risk/profitability indicators. It enables business users to understand customer patterns, segmentations, and financial performance at a glance.
 
-Repository Contents
-Power BI Dashboard file (.pbix)
-
-Screenshots of four main dashboards for quick viewing:
+four main dashboards for quick viewing:
 
 Customer Demographics Analysis
 
